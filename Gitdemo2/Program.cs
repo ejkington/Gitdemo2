@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hejsan Världen! ");
             Console.WriteLine("Tjenare ");
+            Console.WriteLine("YEah ");
         }
     }
 }
